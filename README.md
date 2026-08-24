@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Lima 👋
 
-### Senior Frontend Engineer | Angular · TypeScript · RxJS · Node.js
+### Senior Frontend Engineer | Angular · TypeScript · RxJS · Node.js · Python
 
 I'm a software engineer focused on building **scalable, performant and maintainable web applications**, with a strong specialization in the Angular ecosystem.
 
@@ -33,6 +33,7 @@ I enjoy solving complex frontend problems, improving developer experience and tu
 * Python
 * FastAPI
 * SQLAlchemy
+* Python
 
 ### Architecture & Engineering
 
